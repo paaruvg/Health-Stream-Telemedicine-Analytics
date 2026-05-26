@@ -1,0 +1,20 @@
+open cmd
+type- cd C:\kafka
+
+step-2 
+type in cmd to start the kafka
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+take another terminal to create the topic
+.\bin\windows\kafka-topics.bat --create --topic healthstream --bootstrap-server localhost:9092
+
+if it shows already exist go to producer file and consumer file 
+
+step-3
+
+start running the consumer.py if it shows waiting for messages
+start running the producer.py and starts receiving file
+
+for the conformation create new terminal and run the producer.py file (python producer.py)
+
+it will shows sending messages
