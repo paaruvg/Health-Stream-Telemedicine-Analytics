@@ -10,6 +10,6 @@ The platform includes user login functionality for patients, doctors, and admini
 
 <b>Problem Statement</b>
 
-Traditional healthcare systems face delays in processing and monitoring patient data. Telemedicine applications require real-time data streaming and analysis for effective patient monitoring. Handling large volumes of healthcare data efficiently is a major challenge. Existing systems often lack scalability, real-time analytics, and centralized monitoring capabilities. This project aims to develop a real-time healthcare data engineering pipeline using Apache Kafka, SQL Server, and Power BI to improve healthcare data streaming, storage, and visualization.
+Healthcare systems face difficulties in handling and monitoring large volumes of patient data in real time. Delays in data processing, limited scalability, and lack of centralized monitoring reduce the efficiency of telemedicine and healthcare analytics systems.
 
 
