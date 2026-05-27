@@ -26,7 +26,8 @@ The system helps healthcare organizations monitor patient interactions, healthca
 
 # ❗ Problem Statement
 
-Traditional healthcare systems often face delays in processing and monitoring patient data. Telemedicine applications require real-time data streaming and analysis for effective patient monitoring. Handling large volumes of healthcare data efficiently is a major challenge due to:
+Healthcare systems face difficulties in handling and monitoring large volumes of patient data in real time. Delays in data processing, limited scalability, and lack of centralized monitoring reduce the efficiency of telemedicine and healthcare analytics systems.
+Handling large volumes of healthcare data efficiently is a major challenge due to:
 
 - Lack of scalability
 - Limited real-time analytics
