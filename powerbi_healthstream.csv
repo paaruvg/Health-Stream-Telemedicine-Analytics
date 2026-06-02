@@ -1,0 +1,201 @@
+Patient_ID,Timestamp,Sensor_ID,Sensor_Type,Temperature (°C),Systolic_BP,Diastolic_BP,Heart_Rate,Battery_Level,Target_Blood_Pressure,Target_Heart_Rate,Target_Health_Status,Battery_Level (%),BP_Category,HR_Category,Cluster
+8270,2024-01-01 00:00:00,4,Temperature,36.8,150.0,95.0,84.0,99,140.0,90.0,Unhealthy,80,High,Normal,1
+1860,2024-01-01 01:00:00,1,Battery,37.3,150.0,95.0,77.0,84,140.0,90.0,Unhealthy,94,High,Normal,1
+6390,2024-01-01 02:00:00,1,Temperature,36.5,140.0,85.0,99.0,93,130.0,80.0,Healthy,84,Normal,Normal,1
+6191,2024-01-01 03:00:00,4,Battery,37.3,120.0,80.0,67.0,95,150.0,90.0,Unhealthy,92,Normal,Normal,2
+6734,2024-01-01 04:00:00,4,Temperature,36.8,90.0,60.0,98.0,97,120.0,80.0,Unhealthy,87,Low,Normal,0
+7265,2024-01-01 05:00:00,3,Battery,36.6,120.0,85.0,99.0,86,120.0,90.0,Unhealthy,87,Normal,Normal,1
+1466,2024-01-01 06:00:00,2,Battery,37.04,90.0,60.0,73.0,89,120.0,70.0,Unhealthy,84,Low,Normal,0
+5426,2024-01-01 07:00:00,4,Blood Pressure,37.1,140.0,90.0,91.0,86,120.0,80.0,Healthy,88,Normal,Normal,1
+6578,2024-01-01 08:00:00,1,Battery,37.4,140.0,90.0,97.0,80,120.0,70.0,Unhealthy,80,Normal,Normal,1
+9322,2024-01-01 09:00:00,3,Blood Pressure,37.2,150.0,95.0,92.0,98,120.0,80.0,Unhealthy,83,High,Normal,1
+2685,2024-01-01 10:00:00,4,Battery,37.3,120.0,80.0,82.0,95,120.0,90.0,Healthy,82,Normal,Normal,1
+1769,2024-01-01 11:00:00,1,Heart Rate,36.8,150.0,95.0,74.0,98,120.0,90.0,Unhealthy,81,High,Normal,2
+7949,2024-01-01 12:00:00,1,Heart Rate,36.7,120.0,80.0,92.0,83,120.0,80.0,Healthy,87,Normal,Normal,1
+3433,2024-01-01 13:00:00,2,Heart Rate,37.3,150.0,95.0,84.0,97,150.0,80.0,Unhealthy,88,High,Normal,1
+6311,2024-01-01 14:00:00,3,Battery,37.3,130.0,85.0,76.0,81,150.0,90.0,Healthy,81,Normal,Normal,2
+6051,2024-01-01 15:00:00,3,Blood Pressure,37.5,130.0,85.0,92.0,80,140.0,70.0,Healthy,93,Normal,Normal,1
+7420,2024-01-01 16:00:00,2,Blood Pressure,36.9,130.0,85.0,61.0,94,120.0,80.0,Healthy,93,Normal,Normal,2
+2184,2024-01-01 17:00:00,2,Battery,36.9,130.0,85.0,73.0,84,120.0,80.0,Healthy,83,Normal,Normal,2
+5555,2024-01-01 18:00:00,3,Heart Rate,37.3,90.0,60.0,99.0,99,130.0,90.0,Unhealthy,85,Low,Normal,0
+4385,2024-01-01 19:00:00,3,Heart Rate,36.8,130.0,85.0,99.0,90,120.0,80.0,Healthy,90,Normal,Normal,1
+7396,2024-01-01 20:00:00,4,Blood Pressure,37.4,140.0,90.0,98.0,89,140.0,80.0,Unhealthy,82,Normal,Normal,1
+9666,2024-01-01 21:00:00,4,Heart Rate,37.04,140.0,90.0,65.0,81,140.0,80.0,Healthy,87,Normal,Normal,2
+3558,2024-01-01 22:00:00,2,Temperature,36.9,90.0,60.0,65.0,82,120.0,70.0,Healthy,82,Low,Normal,0
+8849,2024-01-01 23:00:00,4,Blood Pressure,37.04,130.0,85.0,62.0,91,120.0,80.0,Healthy,93,Normal,Normal,2
+3047,2024-01-02 00:00:00,1,Heart Rate,37.3,130.0,85.0,66.0,99,120.0,90.0,Unhealthy,92,Normal,Normal,2
+3747,2024-01-02 01:00:00,4,Blood Pressure,36.6,130.0,85.0,67.0,84,130.0,80.0,Healthy,92,Normal,Normal,2
+1189,2024-01-02 02:00:00,4,Temperature,37.4,150.0,95.0,74.0,84,120.0,70.0,Unhealthy,81,High,Normal,2
+3734,2024-01-02 03:00:00,1,Blood Pressure,37.0,120.0,80.0,88.0,85,140.0,80.0,Unhealthy,92,Normal,Normal,1
+4005,2024-01-02 04:00:00,2,Blood Pressure,37.3,150.0,95.0,92.0,88,120.0,80.0,Unhealthy,98,High,Normal,1
+5658,2024-01-02 05:00:00,1,Blood Pressure,36.8,120.0,80.0,89.0,81,120.0,70.0,Unhealthy,85,Normal,Normal,1
+2899,2024-01-02 06:00:00,4,Blood Pressure,37.4,130.0,85.0,98.0,91,150.0,70.0,Unhealthy,95,Normal,Normal,1
+8734,2024-01-02 07:00:00,2,Temperature,37.04,130.0,85.0,86.0,82,130.0,70.0,Unhealthy,81,Normal,Normal,1
+2267,2024-01-02 08:00:00,4,Battery,36.5,150.0,95.0,82.0,99,130.0,90.0,Unhealthy,87,High,Normal,1
+2528,2024-01-02 09:00:00,1,Blood Pressure,37.4,130.0,95.0,88.0,91,150.0,80.0,Unhealthy,96,Normal,Normal,1
+4556,2024-01-02 10:00:00,1,Blood Pressure,36.6,120.0,80.0,97.0,96,130.0,70.0,Unhealthy,81,Normal,Normal,1
+4890,2024-01-02 11:00:00,4,Heart Rate,36.8,140.0,90.0,92.0,89,130.0,90.0,Healthy,89,Normal,Normal,1
+9838,2024-01-02 12:00:00,3,Blood Pressure,37.5,120.0,80.0,96.0,93,120.0,80.0,Healthy,95,Normal,Normal,1
+6393,2024-01-02 13:00:00,3,Heart Rate,37.5,130.0,95.0,86.0,96,120.0,90.0,Healthy,85,Normal,Normal,1
+9792,2024-01-02 14:00:00,1,Battery,37.1,150.0,95.0,92.0,97,150.0,80.0,Healthy,81,High,Normal,1
+9433,2024-01-02 15:00:00,1,Temperature,37.04,90.0,60.0,63.0,98,120.0,90.0,Healthy,81,Low,Normal,0
+8513,2024-01-02 16:00:00,3,Temperature,36.9,150.0,95.0,81.0,96,120.0,80.0,Unhealthy,92,High,Normal,1
+3612,2024-01-02 17:00:00,3,Battery,36.8,90.0,60.0,61.0,93,130.0,70.0,Unhealthy,94,Low,Normal,0
+8041,2024-01-02 18:00:00,4,Temperature,36.8,140.0,90.0,69.0,88,140.0,80.0,Unhealthy,81,Normal,Normal,2
+7235,2024-01-02 19:00:00,4,Battery,37.2,120.0,80.0,64.0,87,120.0,90.0,Unhealthy,86,Normal,Normal,2
+6486,2024-01-02 20:00:00,3,Battery,37.3,120.0,80.0,69.0,81,140.0,90.0,Unhealthy,82,Normal,Normal,2
+8099,2024-01-02 21:00:00,4,Battery,37.3,90.0,85.0,92.0,92,120.0,80.0,Unhealthy,87,Low,Normal,0
+1775,2024-01-02 22:00:00,4,Temperature,37.3,120.0,80.0,82.0,86,120.0,70.0,Unhealthy,93,Normal,Normal,1
+9226,2024-01-02 23:00:00,2,Heart Rate,36.6,150.0,95.0,72.0,88,150.0,70.0,Unhealthy,86,High,Normal,2
+4152,2024-01-03 00:00:00,4,Battery,37.0,130.0,85.0,90.0,90,150.0,80.0,Healthy,100,Normal,Normal,1
+2585,2024-01-03 01:00:00,1,Blood Pressure,36.6,90.0,60.0,95.0,93,150.0,80.0,Unhealthy,86,Low,Normal,0
+4943,2024-01-03 02:00:00,4,Temperature,37.0,120.0,85.0,83.0,83,140.0,90.0,Healthy,80,Normal,Normal,1
+8555,2024-01-03 03:00:00,4,Battery,36.9,90.0,60.0,74.0,92,120.0,70.0,Unhealthy,96,Low,Normal,0
+4073,2024-01-03 04:00:00,3,Battery,37.4,90.0,60.0,88.0,81,120.0,80.0,Unhealthy,88,Low,Normal,0
+2021,2024-01-03 05:00:00,1,Blood Pressure,36.9,130.0,85.0,67.0,84,120.0,70.0,Unhealthy,100,Normal,Normal,2
+4843,2024-01-03 06:00:00,4,Heart Rate,36.6,150.0,95.0,64.0,90,120.0,80.0,Healthy,92,High,Normal,2
+8989,2024-01-03 07:00:00,4,Heart Rate,36.6,90.0,60.0,88.0,85,140.0,80.0,Unhealthy,100,Low,Normal,0
+7873,2024-01-03 08:00:00,2,Heart Rate,37.3,120.0,80.0,82.0,97,150.0,70.0,Unhealthy,98,Normal,Normal,1
+6675,2024-01-03 09:00:00,4,Battery,37.1,140.0,90.0,71.0,89,130.0,80.0,Unhealthy,100,Normal,Normal,2
+1161,2024-01-03 10:00:00,4,Battery,36.6,130.0,60.0,61.0,83,140.0,80.0,Healthy,98,Normal,Normal,2
+5297,2024-01-03 11:00:00,2,Battery,36.6,90.0,60.0,86.0,88,150.0,90.0,Unhealthy,96,Low,Normal,0
+1995,2024-01-03 12:00:00,3,Temperature,37.2,130.0,85.0,90.0,85,140.0,80.0,Healthy,89,Normal,Normal,1
+8629,2024-01-03 13:00:00,4,Blood Pressure,36.6,150.0,95.0,82.0,81,130.0,80.0,Healthy,89,High,Normal,1
+2016,2024-01-03 14:00:00,2,Battery,37.3,140.0,90.0,95.0,96,150.0,80.0,Healthy,83,Normal,Normal,1
+8869,2024-01-03 15:00:00,1,Blood Pressure,37.2,120.0,80.0,85.0,84,140.0,80.0,Healthy,87,Normal,Normal,1
+7439,2024-01-03 16:00:00,3,Blood Pressure,36.6,140.0,90.0,86.0,85,130.0,70.0,Unhealthy,99,Normal,Normal,1
+8892,2024-01-03 17:00:00,1,Heart Rate,36.6,120.0,80.0,64.0,91,120.0,90.0,Healthy,99,Normal,Normal,2
+7863,2024-01-03 18:00:00,1,Temperature,37.04,150.0,95.0,79.0,89,130.0,90.0,Healthy,97,High,Normal,1
+8916,2024-01-03 19:00:00,2,Battery,36.9,120.0,80.0,70.0,85,120.0,70.0,Unhealthy,93,Normal,Normal,2
+9529,2024-01-03 20:00:00,4,Heart Rate,36.9,130.0,85.0,69.0,87,140.0,90.0,Unhealthy,97,Normal,Normal,2
+1878,2024-01-03 21:00:00,2,Heart Rate,37.3,130.0,85.0,99.0,81,150.0,70.0,Healthy,93,Normal,Normal,1
+5887,2024-01-03 22:00:00,2,Battery,37.4,130.0,85.0,82.0,91,150.0,80.0,Unhealthy,99,Normal,Normal,1
+5859,2024-01-03 23:00:00,2,Blood Pressure,37.5,130.0,85.0,65.0,92,140.0,70.0,Healthy,100,Normal,Normal,2
+7331,2024-01-04 00:00:00,2,Heart Rate,37.3,140.0,90.0,67.0,86,150.0,80.0,Healthy,94,Normal,Normal,2
+9571,2024-01-04 01:00:00,3,Blood Pressure,36.9,150.0,95.0,82.0,89,150.0,90.0,Healthy,83,High,Normal,1
+9684,2024-01-04 02:00:00,4,Temperature,36.6,120.0,85.0,85.0,92,120.0,90.0,Healthy,92,Normal,Normal,1
+8208,2024-01-04 03:00:00,1,Blood Pressure,37.3,130.0,80.0,71.0,96,120.0,90.0,Unhealthy,87,Normal,Normal,2
+6276,2024-01-04 04:00:00,1,Temperature,37.1,130.0,85.0,85.0,93,130.0,90.0,Healthy,97,Normal,Normal,1
+3062,2024-01-04 05:00:00,4,Blood Pressure,36.9,130.0,85.0,72.0,81,120.0,80.0,Unhealthy,91,Normal,Normal,2
+1064,2024-01-04 06:00:00,1,Heart Rate,37.4,90.0,60.0,99.0,90,140.0,90.0,Unhealthy,93,Low,Normal,0
+9006,2024-01-04 07:00:00,4,Heart Rate,36.6,130.0,95.0,77.0,80,120.0,80.0,Unhealthy,81,Normal,Normal,2
+3568,2024-01-04 08:00:00,1,Temperature,37.0,140.0,90.0,84.0,98,130.0,80.0,Unhealthy,97,Normal,Normal,1
+6463,2024-01-04 09:00:00,2,Battery,36.5,120.0,80.0,82.0,83,130.0,80.0,Healthy,81,Normal,Normal,1
+3027,2024-01-04 10:00:00,1,Temperature,37.04,90.0,60.0,99.0,98,140.0,80.0,Unhealthy,90,Low,Normal,0
+3695,2024-01-04 11:00:00,4,Temperature,36.6,90.0,60.0,71.0,90,130.0,70.0,Healthy,88,Low,Normal,0
+6258,2024-01-04 12:00:00,4,Blood Pressure,36.6,120.0,80.0,95.0,87,120.0,70.0,Unhealthy,91,Normal,Normal,1
+6618,2024-01-04 13:00:00,4,Blood Pressure,36.6,140.0,90.0,63.0,90,130.0,90.0,Unhealthy,96,Normal,Normal,2
+7736,2024-01-04 14:00:00,4,Temperature,37.04,90.0,60.0,64.0,83,120.0,70.0,Healthy,94,Low,Normal,0
+1391,2024-01-04 15:00:00,4,Heart Rate,37.2,90.0,60.0,96.0,96,120.0,70.0,Healthy,96,Low,Normal,0
+6892,2024-01-04 16:00:00,3,Blood Pressure,37.1,150.0,95.0,67.0,86,130.0,80.0,Healthy,97,High,Normal,2
+4561,2024-01-04 17:00:00,3,Battery,37.5,140.0,90.0,87.0,87,140.0,90.0,Unhealthy,85,Normal,Normal,1
+7184,2024-01-04 18:00:00,1,Blood Pressure,36.9,90.0,60.0,90.0,82,150.0,90.0,Unhealthy,96,Low,Normal,0
+4099,2024-01-04 19:00:00,4,Blood Pressure,36.8,140.0,90.0,68.0,81,120.0,70.0,Healthy,97,Normal,Normal,2
+7278,2024-01-04 20:00:00,1,Battery,37.4,120.0,80.0,88.0,94,120.0,70.0,Healthy,87,Normal,Normal,1
+9392,2024-01-04 21:00:00,4,Temperature,36.7,130.0,85.0,73.0,84,120.0,90.0,Healthy,88,Normal,Normal,2
+4104,2024-01-04 22:00:00,4,Battery,37.5,90.0,60.0,99.0,80,120.0,80.0,Healthy,85,Low,Normal,0
+8215,2024-01-04 23:00:00,3,Temperature,36.5,130.0,95.0,81.0,83,120.0,90.0,Unhealthy,84,Normal,Normal,1
+3454,2024-01-05 00:00:00,3,Temperature,37.04,120.0,80.0,70.0,94,140.0,80.0,Healthy,91,Normal,Normal,2
+9996,2024-01-05 01:00:00,2,Temperature,37.04,130.0,85.0,82.0,99,120.0,80.0,Healthy,90,Normal,Normal,1
+3731,2024-01-05 02:00:00,3,Battery,37.4,130.0,80.0,60.0,98,120.0,90.0,Healthy,80,Normal,Normal,2
+9154,2024-01-05 03:00:00,2,Temperature,37.0,90.0,60.0,82.0,82,140.0,90.0,Unhealthy,90,Low,Normal,0
+6056,2024-01-05 04:00:00,2,Heart Rate,37.5,140.0,90.0,80.0,99,150.0,90.0,Unhealthy,98,Normal,Normal,1
+9110,2024-01-05 05:00:00,2,Battery,36.6,130.0,85.0,82.0,90,130.0,70.0,Healthy,88,Normal,Normal,1
+4840,2024-01-05 06:00:00,2,Heart Rate,37.1,120.0,80.0,95.0,96,120.0,80.0,Unhealthy,81,Normal,Normal,1
+2028,2024-01-05 07:00:00,2,Temperature,37.5,90.0,85.0,82.0,92,120.0,70.0,Healthy,91,Low,Normal,0
+8385,2024-01-05 08:00:00,1,Blood Pressure,37.0,150.0,95.0,60.0,90,140.0,70.0,Healthy,83,High,Normal,2
+1502,2024-01-05 09:00:00,3,Temperature,37.1,140.0,90.0,82.0,81,130.0,90.0,Unhealthy,83,Normal,Normal,1
+7910,2024-01-05 10:00:00,2,Heart Rate,37.2,120.0,80.0,74.0,88,140.0,70.0,Healthy,97,Normal,Normal,2
+7938,2024-01-05 11:00:00,4,Heart Rate,37.0,120.0,80.0,82.0,81,130.0,90.0,Unhealthy,94,Normal,Normal,1
+5488,2024-01-05 12:00:00,3,Battery,37.1,130.0,85.0,68.0,88,130.0,80.0,Unhealthy,98,Normal,Normal,2
+1206,2024-01-05 13:00:00,3,Blood Pressure,37.1,130.0,85.0,68.0,88,130.0,90.0,Unhealthy,92,Normal,Normal,2
+6134,2024-01-05 14:00:00,2,Battery,37.4,150.0,95.0,69.0,87,120.0,80.0,Unhealthy,98,High,Normal,2
+6977,2024-01-05 15:00:00,1,Heart Rate,36.5,150.0,95.0,85.0,96,150.0,70.0,Unhealthy,96,High,Normal,1
+8721,2024-01-05 16:00:00,2,Temperature,36.8,90.0,60.0,94.0,80,140.0,90.0,Unhealthy,85,Low,Normal,0
+8035,2024-01-05 17:00:00,1,Blood Pressure,37.5,130.0,60.0,84.0,90,120.0,90.0,Unhealthy,95,Normal,Normal,1
+2484,2024-01-05 18:00:00,4,Temperature,37.4,150.0,95.0,85.0,87,140.0,70.0,Unhealthy,91,High,Normal,1
+8858,2024-01-05 19:00:00,3,Temperature,37.0,130.0,95.0,70.0,89,130.0,80.0,Unhealthy,98,Normal,Normal,2
+1863,2024-01-05 20:00:00,4,Blood Pressure,37.1,140.0,90.0,97.0,86,120.0,80.0,Unhealthy,84,Normal,Normal,1
+3790,2024-01-05 21:00:00,1,Battery,36.8,130.0,85.0,61.0,82,150.0,90.0,Unhealthy,96,Normal,Normal,2
+8408,2024-01-05 22:00:00,1,Temperature,36.7,90.0,85.0,66.0,82,120.0,80.0,Unhealthy,80,Low,Normal,0
+9755,2024-01-05 23:00:00,4,Heart Rate,37.0,130.0,85.0,77.0,97,140.0,70.0,Healthy,89,Normal,Normal,2
+6116,2024-01-06 00:00:00,1,Temperature,36.9,130.0,85.0,86.0,84,120.0,90.0,Unhealthy,94,Normal,Normal,1
+7019,2024-01-06 01:00:00,4,Blood Pressure,37.04,150.0,95.0,93.0,91,120.0,70.0,Healthy,100,High,Normal,1
+2757,2024-01-06 02:00:00,3,Blood Pressure,36.6,140.0,90.0,82.0,91,150.0,70.0,Unhealthy,100,Normal,Normal,1
+8574,2024-01-06 03:00:00,4,Blood Pressure,37.5,120.0,80.0,76.0,98,130.0,80.0,Unhealthy,90,Normal,Normal,2
+7374,2024-01-06 04:00:00,3,Battery,37.04,140.0,90.0,83.0,85,120.0,90.0,Healthy,92,Normal,Normal,1
+7892,2024-01-06 05:00:00,4,Temperature,37.2,140.0,90.0,84.0,81,130.0,90.0,Unhealthy,84,Normal,Normal,1
+2678,2024-01-06 06:00:00,1,Battery,37.04,130.0,85.0,66.0,91,140.0,80.0,Unhealthy,80,Normal,Normal,2
+4242,2024-01-06 07:00:00,4,Battery,36.8,130.0,90.0,65.0,98,120.0,70.0,Unhealthy,91,Normal,Normal,2
+5636,2024-01-06 08:00:00,1,Blood Pressure,37.3,90.0,85.0,82.0,84,150.0,70.0,Unhealthy,90,Low,Normal,0
+2059,2024-01-06 09:00:00,4,Blood Pressure,37.2,130.0,85.0,92.0,91,140.0,70.0,Healthy,96,Normal,Normal,1
+7668,2024-01-06 10:00:00,4,Battery,36.7,90.0,60.0,88.0,96,140.0,70.0,Unhealthy,83,Low,Normal,0
+4157,2024-01-06 11:00:00,2,Temperature,37.04,120.0,80.0,81.0,96,150.0,90.0,Unhealthy,94,Normal,Normal,1
+6915,2024-01-06 12:00:00,1,Heart Rate,37.3,130.0,85.0,85.0,89,120.0,90.0,Unhealthy,88,Normal,Normal,1
+3693,2024-01-06 13:00:00,2,Battery,37.4,120.0,80.0,87.0,96,120.0,80.0,Healthy,100,Normal,Normal,1
+4627,2024-01-06 14:00:00,1,Temperature,37.2,130.0,85.0,80.0,94,140.0,80.0,Unhealthy,99,Normal,Normal,1
+6450,2024-01-06 15:00:00,2,Blood Pressure,37.1,150.0,95.0,66.0,91,120.0,80.0,Healthy,98,High,Normal,2
+2663,2024-01-06 16:00:00,3,Blood Pressure,37.04,140.0,90.0,76.0,95,130.0,90.0,Healthy,98,Normal,Normal,2
+6592,2024-01-06 17:00:00,4,Temperature,37.4,130.0,95.0,79.0,98,150.0,70.0,Unhealthy,91,Normal,Normal,1
+8392,2024-01-06 18:00:00,1,Heart Rate,37.4,120.0,80.0,82.0,87,130.0,70.0,Unhealthy,84,Normal,Normal,1
+2306,2024-01-06 19:00:00,1,Blood Pressure,36.5,140.0,90.0,81.0,96,120.0,80.0,Healthy,89,Normal,Normal,1
+7776,2024-01-06 20:00:00,4,Blood Pressure,36.5,130.0,85.0,87.0,84,140.0,80.0,Unhealthy,96,Normal,Normal,1
+6864,2024-01-06 21:00:00,1,Blood Pressure,36.9,140.0,90.0,99.0,95,150.0,80.0,Healthy,84,Normal,Normal,1
+8526,2024-01-06 22:00:00,1,Temperature,37.04,90.0,60.0,66.0,85,120.0,90.0,Healthy,95,Low,Normal,0
+9901,2024-01-06 23:00:00,2,Battery,37.5,140.0,85.0,60.0,87,120.0,70.0,Unhealthy,86,Normal,Normal,2
+6575,2024-01-07 00:00:00,1,Blood Pressure,36.7,90.0,60.0,91.0,97,140.0,80.0,Unhealthy,88,Low,Normal,0
+6530,2024-01-07 01:00:00,3,Battery,37.1,140.0,90.0,72.0,91,140.0,80.0,Healthy,82,Normal,Normal,2
+5413,2024-01-07 02:00:00,3,Heart Rate,36.9,90.0,60.0,82.0,94,130.0,90.0,Healthy,94,Low,Normal,0
+4748,2024-01-07 03:00:00,4,Blood Pressure,37.5,120.0,80.0,82.0,88,150.0,70.0,Healthy,95,Normal,Normal,1
+1663,2024-01-07 04:00:00,1,Blood Pressure,37.3,150.0,95.0,78.0,92,150.0,80.0,Unhealthy,97,High,Normal,1
+2998,2024-01-07 05:00:00,4,Heart Rate,37.3,130.0,85.0,91.0,94,140.0,70.0,Unhealthy,93,Normal,Normal,1
+8994,2024-01-07 06:00:00,3,Blood Pressure,37.0,140.0,90.0,89.0,89,120.0,80.0,Unhealthy,82,Normal,Normal,1
+2495,2024-01-07 07:00:00,1,Battery,36.9,150.0,95.0,82.0,95,150.0,70.0,Unhealthy,91,High,Normal,1
+4304,2024-01-07 08:00:00,1,Temperature,36.8,130.0,85.0,88.0,86,140.0,90.0,Unhealthy,88,Normal,Normal,1
+4763,2024-01-07 09:00:00,4,Battery,37.04,130.0,85.0,89.0,96,120.0,80.0,Unhealthy,86,Normal,Normal,1
+6232,2024-01-07 10:00:00,3,Temperature,37.4,90.0,60.0,75.0,86,150.0,80.0,Healthy,88,Low,Normal,0
+2853,2024-01-07 11:00:00,1,Temperature,37.3,130.0,80.0,99.0,93,130.0,70.0,Unhealthy,92,Normal,Normal,1
+7585,2024-01-07 12:00:00,4,Battery,37.5,120.0,80.0,78.0,94,130.0,80.0,Unhealthy,97,Normal,Normal,2
+2291,2024-01-07 13:00:00,3,Battery,37.5,150.0,95.0,77.0,86,130.0,80.0,Unhealthy,84,High,Normal,1
+4581,2024-01-07 14:00:00,4,Battery,37.1,120.0,80.0,82.0,88,120.0,90.0,Unhealthy,92,Normal,Normal,1
+8554,2024-01-07 15:00:00,2,Battery,37.3,140.0,90.0,73.0,98,150.0,70.0,Unhealthy,83,Normal,Normal,2
+8280,2024-01-07 16:00:00,1,Heart Rate,37.4,130.0,80.0,82.0,95,150.0,70.0,Healthy,81,Normal,Normal,1
+2636,2024-01-07 17:00:00,2,Blood Pressure,37.3,150.0,95.0,87.0,87,120.0,70.0,Healthy,95,High,Normal,1
+4696,2024-01-07 18:00:00,3,Temperature,36.7,120.0,80.0,89.0,97,150.0,80.0,Healthy,88,Normal,Normal,1
+1698,2024-01-07 19:00:00,2,Battery,37.0,140.0,90.0,97.0,97,120.0,80.0,Unhealthy,88,Normal,Normal,1
+5737,2024-01-07 20:00:00,2,Battery,36.6,90.0,60.0,63.0,99,120.0,80.0,Healthy,85,Low,Normal,0
+1854,2024-01-07 21:00:00,3,Battery,37.5,150.0,95.0,60.0,86,120.0,80.0,Healthy,90,High,Normal,2
+9164,2024-01-07 22:00:00,4,Heart Rate,37.1,90.0,60.0,67.0,82,130.0,90.0,Unhealthy,80,Low,Normal,0
+6855,2024-01-07 23:00:00,2,Battery,36.7,90.0,60.0,88.0,97,120.0,80.0,Unhealthy,83,Low,Normal,0
+8392,2024-01-08 00:00:00,4,Battery,37.2,90.0,60.0,98.0,89,120.0,80.0,Unhealthy,92,Low,Normal,0
+7528,2024-01-08 01:00:00,2,Battery,37.04,130.0,85.0,62.0,86,150.0,90.0,Healthy,92,Normal,Normal,2
+6249,2024-01-08 02:00:00,4,Blood Pressure,36.9,130.0,85.0,91.0,96,130.0,70.0,Healthy,92,Normal,Normal,1
+6172,2024-01-08 03:00:00,3,Heart Rate,36.6,90.0,60.0,69.0,93,120.0,70.0,Unhealthy,81,Low,Normal,0
+2707,2024-01-08 04:00:00,2,Battery,37.04,130.0,95.0,69.0,82,140.0,70.0,Unhealthy,88,Normal,Normal,2
+6791,2024-01-08 05:00:00,3,Temperature,37.0,140.0,90.0,78.0,91,130.0,80.0,Healthy,87,Normal,Normal,1
+6535,2024-01-08 06:00:00,2,Temperature,37.3,140.0,90.0,93.0,92,140.0,70.0,Healthy,86,Normal,Normal,1
+5931,2024-01-08 07:00:00,3,Temperature,37.0,130.0,80.0,92.0,81,150.0,90.0,Unhealthy,83,Normal,Normal,1
+4510,2024-01-08 08:00:00,3,Heart Rate,37.4,150.0,95.0,82.0,82,150.0,80.0,Unhealthy,97,High,Normal,1
+1202,2024-01-08 09:00:00,2,Heart Rate,37.1,130.0,85.0,87.0,84,130.0,90.0,Healthy,82,Normal,Normal,1
+5218,2024-01-08 10:00:00,2,Temperature,37.1,90.0,60.0,91.0,90,150.0,70.0,Unhealthy,85,Low,Normal,0
+9958,2024-01-08 11:00:00,2,Battery,37.4,120.0,80.0,66.0,87,140.0,70.0,Healthy,91,Normal,Normal,2
+5389,2024-01-08 12:00:00,1,Heart Rate,36.9,140.0,90.0,88.0,91,120.0,70.0,Healthy,91,Normal,Normal,1
+3327,2024-01-08 13:00:00,4,Temperature,36.6,130.0,85.0,67.0,86,120.0,80.0,Healthy,100,Normal,Normal,2
+9004,2024-01-08 14:00:00,1,Temperature,37.04,130.0,85.0,60.0,94,120.0,90.0,Healthy,87,Normal,Normal,2
+3931,2024-01-08 15:00:00,1,Battery,37.3,90.0,60.0,62.0,96,130.0,80.0,Unhealthy,80,Low,Normal,0
+8777,2024-01-08 16:00:00,3,Blood Pressure,37.1,140.0,90.0,82.0,83,150.0,80.0,Unhealthy,83,Normal,Normal,1
+1197,2024-01-08 17:00:00,2,Heart Rate,37.2,150.0,95.0,82.0,92,140.0,70.0,Healthy,100,High,Normal,1
+8125,2024-01-08 18:00:00,4,Battery,36.7,130.0,85.0,67.0,97,150.0,80.0,Healthy,90,Normal,Normal,2
+2930,2024-01-08 19:00:00,3,Temperature,36.6,90.0,60.0,96.0,80,150.0,80.0,Healthy,82,Low,Normal,0
+7287,2024-01-08 20:00:00,1,Temperature,36.5,150.0,95.0,62.0,95,150.0,70.0,Healthy,92,High,Normal,2
+9800,2024-01-08 21:00:00,2,Battery,36.9,140.0,90.0,92.0,92,120.0,80.0,Healthy,96,Normal,Normal,1
+5282,2024-01-08 22:00:00,3,Heart Rate,37.1,130.0,85.0,87.0,89,120.0,70.0,Unhealthy,89,Normal,Normal,1
+3511,2024-01-08 23:00:00,2,Blood Pressure,36.9,130.0,95.0,67.0,91,140.0,70.0,Unhealthy,100,Normal,Normal,2
+1659,2024-01-09 00:00:00,3,Blood Pressure,36.9,150.0,85.0,82.0,81,150.0,70.0,Unhealthy,91,High,Normal,1
+3811,2024-01-09 01:00:00,2,Temperature,37.4,150.0,95.0,94.0,82,120.0,70.0,Unhealthy,94,High,Normal,1
+8098,2024-01-09 02:00:00,1,Heart Rate,36.8,130.0,85.0,91.0,89,120.0,80.0,Healthy,100,Normal,Normal,1
+7546,2024-01-09 03:00:00,4,Blood Pressure,37.0,130.0,85.0,83.0,81,140.0,70.0,Healthy,89,Normal,Normal,1
+2986,2024-01-09 04:00:00,1,Heart Rate,37.3,130.0,80.0,73.0,92,120.0,80.0,Unhealthy,93,Normal,Normal,2
+9338,2024-01-09 05:00:00,4,Heart Rate,36.9,140.0,90.0,82.0,92,120.0,80.0,Healthy,92,Normal,Normal,1
+3911,2024-01-09 06:00:00,2,Temperature,37.1,90.0,60.0,75.0,97,120.0,80.0,Healthy,84,Low,Normal,0
+2734,2024-01-09 07:00:00,3,Blood Pressure,37.4,150.0,95.0,63.0,82,130.0,80.0,Unhealthy,85,High,Normal,2
