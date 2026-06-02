@@ -26,11 +26,11 @@ The system helps healthcare organizations monitor patient interactions, healthca
 
 # ❗ Problem Statement
 
-Delayed healthcare monitoring
-Lack of real-time analytics
-Difficulty handling large healthcare datasets
-Absence of centralized monitoring systems
-Inefficient healthcare data processing
+- Delayed healthcare monitoring
+- Lack of real-time analytics
+- Difficulty handling large healthcare datasets
+- Absence of centralized monitoring systems
+- Inefficient healthcare data processing
 ---
 
 # 🎯 Objectives
