@@ -26,23 +26,11 @@ The system helps healthcare organizations monitor patient interactions, healthca
 
 # ❗ Problem Statement
 
-Healthcare systems face difficulties in handling and monitoring large volumes of patient data in real time. Delays in data processing, limited scalability, and lack of centralized monitoring reduce the efficiency of telemedicine and healthcare analytics systems.
-Handling large volumes of healthcare data efficiently is a major challenge due to:
-
-- Lack of scalability
-- Limited real-time analytics
-- Absence of centralized monitoring systems
-- Difficulty in managing continuous healthcare streams
-- Delayed healthcare decision-making
-
-This project aims to develop a scalable healthcare data engineering pipeline using Apache Kafka, SQL Server, Python, and Power BI to improve:
-
-- Healthcare data streaming
-- Data integration and storage
-- Real-time analytics
-- Dashboard visualization
-- Monitoring and reporting
-
+Delayed healthcare monitoring
+Lack of real-time analytics
+Difficulty handling large healthcare datasets
+Absence of centralized monitoring systems
+Inefficient healthcare data processing
 ---
 
 # 🎯 Objectives
