@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pyodbc
 import plotly.express as px
+from streamlit_autorefresh import st_autorefresh
 
 # -------------------------------
 # PAGE CONFIG
@@ -13,11 +14,19 @@ st.set_page_config(
 )
 
 st.title("🏥 Health Stream Telemedicine Monitoring Dashboard")
+# Refresh dashboard every 3 seconds
+st_autorefresh(
+    interval=3000,
+    key="healthcare_refresh"
+)
 
+st.write(
+    "Last Updated:",
+    pd.Timestamp.now()
+)
 # -------------------------------
 # DATABASE CONNECTION
 # -------------------------------
-@st.cache_data
 def load_data():
     conn = pyodbc.connect(
         "Driver={SQL Server};"
